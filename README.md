@@ -72,7 +72,7 @@ This storage class declares register variables with the same functionality as au
 
 ## Code for size of datatypes
 
-~~~
+```
 //sundaravadivelan karthikeyan 
 //23070123136
 //ENTC B3
@@ -117,9 +117,11 @@ The size of a wide character is: 2
 
 
 */
-
+```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/cc04ff76-2451-47f7-a9f2-b54ff84404a7)
+
+![image](https://github.com/user-attachments/assets/8d39cc4d-31c1-48e3-aedf-ff05fd973a1e)
+
 
 
 
